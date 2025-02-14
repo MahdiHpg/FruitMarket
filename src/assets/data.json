@@ -3,42 +3,42 @@
     {
       "id": 1,
       "name": "میوه اولی",
-      "img": "/images/desert.png"
+      "img": "images/desert.png"
     },
     {
       "id": 3,
       "name": "میوه دومی",
-      "img": "/images/grapefruit.png"
+      "img": "images/grapefruit.png"
     },
     {
       "id": 4,
       "name": "میوه سومی",
-      "img": "/images/icecream.png"
+      "img": "images/icecream.png"
     },
     {
       "id": 5,
       "name": "میوه چهارمی",
-      "img": "/images/mysteryfruit.png"
+      "img": "images/mysteryfruit.png"
     },
     {
       "id": 6,
       "name": "میوه پنجمی",
-      "img": "/images/smoothie.png"
+      "img": "images/smoothie.png"
     },
     {
       "id": 7,
       "name": "میوه ششمی",
-      "img": "/images/strawberry.png"
+      "img": "images/strawberry.png"
     },
     {
       "id": 8,
       "name": "میوه هفتمی",
-      "img": "/images/unknown.png"
+      "img": "images/unknown.png"
     },
     {
       "id": 9,
       "name": "میوه هشتمی",
-      "img": "/images/unknown2.png"
+      "img": "images/unknown2.png"
     }
   ],
   "colors": [
