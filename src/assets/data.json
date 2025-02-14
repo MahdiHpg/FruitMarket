@@ -1,0 +1,54 @@
+{
+  "fruites": [
+    {
+      "id": 1,
+      "name": "میوه اولی",
+      "img": "/images/desert.png"
+    },
+    {
+      "id": 3,
+      "name": "میوه دومی",
+      "img": "/images/grapefruit.png"
+    },
+    {
+      "id": 4,
+      "name": "میوه سومی",
+      "img": "/images/icecream.png"
+    },
+    {
+      "id": 5,
+      "name": "میوه چهارمی",
+      "img": "/images/mysteryfruit.png"
+    },
+    {
+      "id": 6,
+      "name": "میوه پنجمی",
+      "img": "/images/smoothie.png"
+    },
+    {
+      "id": 7,
+      "name": "میوه ششمی",
+      "img": "/images/strawberry.png"
+    },
+    {
+      "id": 8,
+      "name": "میوه هفتمی",
+      "img": "/images/unknown.png"
+    },
+    {
+      "id": 9,
+      "name": "میوه هشتمی",
+      "img": "/images/unknown2.png"
+    }
+  ],
+  "colors": [
+    { "id": 1, "bgColor": "#f0dbd1" },
+    { "id": 2, "bgColor": "#d5a5f6" },
+    { "id": 3, "bgColor": "#7aefc1" },
+    { "id": 4, "bgColor": "#fdd7ba" },
+    { "id": 5, "bgColor": "#fe7577" },
+    { "id": 6, "bgColor": "#faac34" },
+    { "id": 7, "bgColor": "#d1b7a7" },
+    { "id": 8, "bgColor": "#fec5a2" }
+  ]
+}

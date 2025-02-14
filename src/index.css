@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  list-style-type: none;
+}
+
+body {
+  width: 100%;
+  min-width: 560px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow-x: hidden;
+  background: #c7cbe4;
+  background: linear-gradient(90deg, #c7cbe4 0%, #dfc7e4 100%);
+}

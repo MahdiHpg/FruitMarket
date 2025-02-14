@@ -1,0 +1,98 @@
+.container {
+  width: 700px;
+  height: 100%;
+  display: block;
+  position: relative;
+  margin: 200px auto 0 auto;
+}
+
+.header-fruits {
+  position: relative;
+  width: 110%;
+  display: block;
+}
+.header-fruits img {
+  width: 99%;
+  position: absolute;
+  top: -290px;
+  right: -51px;
+}
+
+.card {
+  width: 100%;
+  height: 520px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  background: #d7798a;
+  border-radius: 30px;
+  background: linear-gradient(90deg, #d7798a 0%, #fec5a2 100%);
+  padding: 60px 20px 20px 20px;
+  color: #fff;
+}
+.cardHeader {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+}
+.tabs {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  padding: 20px;
+}
+.tabs button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  color: #fff;
+  transition: all 0.4s ease-in-out;
+}
+.tabs button:hover {
+  color: #ff0000;
+}
+
+.cardBody,
+.cardItems {
+  width: 100%;
+  display: block;
+}
+.cardItems ul {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, 22%);
+  justify-content: center;
+  align-items: start;
+  gap: 10px;
+}
+.cardItems ul li {
+  transition: all 0.4s ease;
+}
+.cardItems ul li:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
+.cardItems ul li div {
+  width: 100%;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+}
+.cardItems ul li div img {
+  width: 100%;
+  height: 150px;
+  object-fit: scale-down;
+  display: block;
+}
